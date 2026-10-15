@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cinematic Presentations"
+  short_description: "Build visual stories with purposeful animated scenes"
+  default_prompt: "Use $cinematic-presentations to gather my content and requirements, ask me to design the story flow, and build an animated presentation website from the agreed plan."
